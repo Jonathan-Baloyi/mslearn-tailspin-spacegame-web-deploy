@@ -14,7 +14,7 @@ using TailSpin.SpaceGame.Web.Models;
 
 /**
  * Just to trigger the deployment
- * 
+ * Test if it's gonna build and release afterwards
  */
 namespace TailSpin.SpaceGame.Web
 {
